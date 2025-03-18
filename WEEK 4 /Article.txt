@@ -1,0 +1,31 @@
+Google Unveils ‘AI Co-Scientist’ To Supercharge Research Breakthroughs
+
+Scientists, get ready to meet your new collaborator. Google on Wednesday announced an “AI co-scientist” designed to help human researchers accelerate discovery. In one early test, the system solved a scientific mystery, one that had stumped boffins for more than a decade.
+
+The AI co-scientist is designed to generate novel testable hypotheses, detailed research overviews and experimental protocols, all with the goal of making scientific and biomedical research faster and more efficient.
+
+The tool is built on Gemini 2.0, the latest version of Google’s AI assistant that responds to user prompts like other chat-based large language models such as OpenAI’s ChatGPT. To work with the AI co-scientist, human scientists simply specify their research goal in natural language. They can also suggest their own ideas and proposals and offer feedback and reviews.
+
+“AI co-scientist is a collaborative tool to help experts gather research and refine their work — it’s not meant to automate the scientific process,” Google said in a blog post announcing the new system, seemingly aiming to ease fears about artificial intelligence replacing humans in a host of fields.
+
+
+The idea is that it can directly supply hypotheses to be tested experimentally by scientists who bring the gray matter. The tool promises to assist humans in a variety of other ways, such as shortening the time it takes to review detailed literature across fields researchers might be unfamiliar with.
+
+For now at least, “AI co-scientist” is the system’s sole name. It’s currently only available to researchers participating in Google’s new Trusted Tester Program, which involves around 20 principal researchers, a company spokesperson clarified over email. Those interested in participating in the program can fill out an online application.
+
+Same Hypothesis In Less Time
+Early testers have already seen promising results with the model. At Imperial College London, scientists have spent a decade studying superbugs resistant to antibiotics, proving how certain bacteria contribute to antibiotic-resistant infections, a global health challenge.
+
+Given its relationship with Fleming Initiative, which works to control the spread of antimicrobial resistance, Google asked the ICL team to see how the AI co-scientist would react to the same problem.
+
+“When the Google research team approached us to test its AI platform, we realized we needed to task it with the same scientific questions that we had already explored ourselves and used as the basis of our experimental work,” José Penadés, a professor with Imperial’s Department of Infectious Disease, said in a statement.
+
+“This effectively meant that the algorithm was able to look at the available evidence, analyze the possibilities, ask questions, design experiments and propose the very same hypothesis that we arrived at through years of painstaking scientific research, but in a fraction of the time.”
+
+Safety And Ethical Concerns
+In a detailed report on the AI co-scientist, Google addresses limitations of the system, and acknowledges the need for technical safeguards against unethical research queries and malicious user intent. Just this month, Google warned of Gemini misuse by cyercriminals, raising the specter that sensitive or confidential scientific queries could fall into the wrong hands. The AI co-scientist currently has some safeguards in place, the paper notes, but it says more will ultimately be needed.
+
+Nonetheless, scientists who’ve experimented with the system express enthusiasm about its potential.
+
+“What our findings show is that AI has the potential to synthesize all the available evidence and direct us to the most important questions and experimental designs,” said Tiago Dias da Costa, who co-led the experimental work from Imperial’s Department of Life Sciences and the Fleming Initiative. “If the system works as well as we hope it could, this could be game-changing; ruling out ‘dead ends’ and effectively enabling us to progress at an extraordinary pace.”
+
